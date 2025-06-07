@@ -1,0 +1,1 @@
+I programmed a pneumatic control systemin Arduino IDE. In this system use ESP32, object detected sensors, three conveyor belts, suction and grren, red and orange light system to identify operations. The ESP32 manages valve operations based on input signals, enabling precise control of pneumatic actuators.This project gave me hands-on experience in pnenumatic control.
